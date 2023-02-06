@@ -1,0 +1,19 @@
+{
+  "name": "forsilas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "get-port": "^6.1.2",
+    "open": "^8.4.0"
+  },
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
+}
